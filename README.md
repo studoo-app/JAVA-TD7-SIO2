@@ -9,7 +9,7 @@
 - L’implémentation d’un diagramme de classe simple.
 - La refactorisation du code afin d’améliorer sa modularité et sa maintenabilité.
 
-Vous travaillerez sur une application de gestion de véhicules. L’exercice se découpe en trois parties progressives.
+Vous travaillerez sur un moteur d'un jeu de rôles.
 
 
 ## Enoncé
